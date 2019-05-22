@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/isaque2304/bootwhatsapp/issues"
   },
-  "homepage": "https://github.com/isaque2304/bootwhatsapp#readme"
+  "homepage": "https://github.com/isaque2304/bootwhatsapp#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
