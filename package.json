@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "open source",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaque2304/bootwhatsapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaque2304/bootwhatsapp/issues"
+  },
+  "homepage": "https://github.com/isaque2304/bootwhatsapp#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
